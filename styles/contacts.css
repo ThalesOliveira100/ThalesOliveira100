@@ -1,0 +1,43 @@
+/* Estilo para o formulário de contato */
+.contact-form {
+    width: 75%; /* Ajusta a largura do formulário */
+    margin: 0 auto; /* Centraliza o formulário */
+    padding: 20px; /* Adiciona espaçamento interno */
+    background-color: #ffffff; /* Cor de fundo branca */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra sutil ao redor */
+    border-radius: 8px; /* Adiciona bordas arredondadas */
+}
+
+.contact-form label {
+    display: block; /* Faz com que os labels ocupem a largura total */
+    margin: 10px 0 5px; /* Adiciona margem superior e inferior aos labels */
+    color: #003366; /* Cor do texto dos labels */
+}
+
+.contact-form input, .contact-form textarea {
+    width: 60%; /* Define a largura dos campos para 60% */
+    padding: 10px; /* Adiciona espaçamento interno aos inputs e textarea */
+    border: 1px solid #ddd; /* Borda fina e clara */
+    border-radius: 4px; /* Adiciona bordas arredondadas */
+    margin-bottom: 15px; /* Adiciona espaço abaixo dos inputs e textarea */
+}
+
+.contact-form button {
+    background-color: #003366; /* Cor de fundo do botão */
+    color: white; /* Cor do texto do botão */
+    border: none; /* Remove a borda padrão do botão */
+    padding: 10px 20px; /* Adiciona espaçamento interno ao botão */
+    border-radius: 4px; /* Adiciona bordas arredondadas ao botão */
+    cursor: pointer; /* Altera o cursor ao passar sobre o botão */
+}
+
+.contact-form button:hover {
+    background-color: #002244; /* Cor de fundo ao passar o mouse sobre o botão */
+}
+
+/* Estilo para o contêiner da página */
+.container {
+    width: 91%;
+    margin: 20px auto; /* Centraliza horizontalmente */
+    padding: 40px;
+}

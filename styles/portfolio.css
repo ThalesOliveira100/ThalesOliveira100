@@ -1,0 +1,33 @@
+/* Estilo para a tabela do portfólio */
+.portfolio-tabela {
+    width: 85%; /* Define a largura da tabela */
+    border-collapse: collapse; /* Remove espaços entre bordas */
+    margin: 20px auto; /* Centraliza a tabela e adiciona margem vertical */
+}
+
+.portfolio-tabela th, .portfolio-tabela td {
+    border: 1px solid #ddd; /* Borda fina e clara */
+    padding: 8px; /* Espaçamento interno das células */
+    text-align: left; /* Alinhamento do texto à esquerda */
+    color: #003366; /* Cor do texto */
+}
+
+.portfolio-tabela th {
+    background-color: #003366; /* Cor de fundo do cabeçalho */
+    color: white; /* Cor do texto no cabeçalho */
+}
+
+.portfolio-tabela tr {
+    background-color: #ffffff; /* Cor de fundo das linhas */
+}
+
+.portfolio-tabela tr:hover {
+    background-color: #f5f5f5; /* Cor de fundo ao passar o mouse */
+}
+
+/* Estilo para o container */
+.container {
+    width: 91%; /* Largura do container */
+    margin: 20px auto; /* Centraliza o container e adiciona margem vertical */
+    padding: 40px; /* Espaçamento interno do container */
+}

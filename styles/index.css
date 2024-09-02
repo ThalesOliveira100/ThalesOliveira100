@@ -1,0 +1,92 @@
+/* Estilo básico do corpo da página */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Barra de navegação */
+nav {
+    background-color: #001f3f;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none; /* Remove os marcadores da lista */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline; /* Exibe itens da lista em linha */
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline; /* Sublinha ao passar o mouse */
+}
+
+/* Contêiner principal e barra lateral */
+.content-wrapper {
+    display: flex; /* Usa flexbox para layout */
+    max-width: 1300px;
+    margin: 0 auto; /* Centraliza horizontalmente */
+    padding: 20px;
+}
+
+.sidebar {
+    width: 700px;
+    background-color: #003366;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3); /* Adiciona sombra */
+    margin-right: 20px;
+    text-align: left;
+}
+
+.sidebar img {
+    width: 100%;
+    border-radius: 50%; /* Torna a imagem circular */
+    margin-bottom: 20px;
+}
+
+/* Estilo do conteúdo principal */
+.container {
+    flex-grow: 1; /* Permite que o contêiner expanda para ocupar o espaço restante */
+    padding: 40px;
+    background-color: #002147;
+    color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3); /* Adiciona sombra */
+    text-align: center;
+}
+
+.container h1 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.container p {
+    font-size: 18px;
+    line-height: 1.6; /* Melhora a legibilidade */
+}
+
+/* Rodapé */
+.footer {
+    background-color: #003366;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    bottom: 0; /* Mantém o rodapé no fundo da página */
+}

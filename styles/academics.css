@@ -1,0 +1,90 @@
+/* Estilo para a tabela de educação */
+.educacao-tabela {
+    width: 75%; /* Ajusta a largura da tabela */
+    border-collapse: collapse; /* Remove espaços entre bordas de células */
+    margin: 0 auto; /* Centraliza a tabela */
+}
+
+.educacao-tabela th, .educacao-tabela td {
+    border: 1px solid #ddd; /* Borda fina e clara */
+    padding: 8px; /* Espaçamento interno das células */
+    text-align: left; /* Alinhamento do texto */
+    color: #003366; /* Cor do texto */
+}
+
+.educacao-tabela th {
+    background-color: #003366; /* Cor de fundo do cabeçalho */
+    color: white; /* Cor do texto no cabeçalho */
+}
+
+.educacao-tabela tr {
+    background-color: #ffffff; /* Cor de fundo uniforme para todas as linhas */
+}
+
+.educacao-tabela tr:hover {
+    background-color: #f5f5f5; /* Cor de fundo ao passar o mouse */
+}
+
+/* Estilo para a tabela de cursos */
+.cursos-tabela {
+    width: 75%;
+    border-collapse: collapse; /* Remove espaços entre bordas de células */
+}
+
+.cursos-tabela th, .cursos-tabela td {
+    border: 1px solid #ddd; /* Borda fina e clara */
+    padding: 8px; /* Espaçamento interno das células */
+    text-align: left; /* Alinhamento do texto */
+    color: #003366;
+}
+
+.cursos-tabela th {
+    background-color: #003366; /* Cor de fundo do cabeçalho */
+    color: white; /* Cor do texto no cabeçalho */
+}
+
+.cursos-tabela tr {
+    background-color: #ffffff; /* Cor de fundo uniforme para todas as linhas */
+}
+
+.cursos-tabela tr:hover {
+    background-color: #f5f5f5; /* Cor de fundo ao passar o mouse */
+}
+
+div .tabela {
+    display: flex;
+    justify-content: center
+}
+
+ul {
+    list-style-type: none; /* Remove os marcadores */
+    padding: 0; /* Remove o preenchimento padrão */
+    margin: 0; /* Remove a margem padrão */
+}
+
+/* Estilo para tabela de idiomas */
+.idiomas-tabela {
+    width: 75%; /* Ajusta a largura da tabela */
+    border-collapse: collapse; /* Remove espaços entre bordas de células */
+    margin: 0 auto; /* Centraliza a tabela */
+}
+
+.idiomas-tabela th, .idiomas-tabela td {
+    border: 1px solid #ddd; /* Borda fina e clara */
+    padding: 8px; /* Espaçamento interno das células */
+    text-align: left; /* Alinhamento do texto */
+    color: #003366; /* Cor do texto */
+}
+
+.idiomas-tabela th {
+    background-color: #003366; /* Cor de fundo do cabeçalho */
+    color: white; /* Cor do texto no cabeçalho */
+}
+
+.idiomas-tabela tr {
+    background-color: #ffffff; /* Cor de fundo uniforme para todas as linhas */
+}
+
+.idiomas-tabela tr:hover {
+    background-color: #f5f5f5; /* Cor de fundo ao passar o mouse */
+}
