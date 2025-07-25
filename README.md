@@ -1,13 +1,13 @@
 # Sobre mim
 
-Olá! 👋 Meu nome é **Thales Oliveira**, sou estudante de **Análise e Desenvolvimento de Sistemas**. 
-Tenho uma grande paixão por novas tecnologias e estou sempre em busca de novos aprendizados para aprimorar minhas habilidades e expandir meu conhecimento.
+Analista de Qualidade apaixonado por desenvolvimento de software, aprofundando meus conhecimentos em Node.js, .NET, e Python para construir soluções robustas. Em busca da transição de carreira para a área de Desenvolvimento.
 
 ### Habilidades técnicas:
 - **Python**
 - **C# .NET**
 - **Java**
 - **JavaScript**
+- **Node.js**
 - **HTML5** & **CSS3**
 
 Desenvolverei novos projetos práticos para melhorar minhas habilidades, e você pode acompanhar o meu progresso aqui no GitHub! 🚀
