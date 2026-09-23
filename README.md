@@ -123,14 +123,6 @@ Estou constantemente desenvolvendo novos projetos para aprofundar conhecimentos 
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThalesOliveira100\&show_icons=true\&theme=transparent\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesOliveira100\&layout=compact\&theme=transparent\&hide_border=true)
-
----
-
 ## 📫 Vamos conversar?
 
 Estou aberto a oportunidades, projetos e conexões relacionadas a **desenvolvimento de software, tecnologia e qualidade**.
